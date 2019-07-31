@@ -22,7 +22,7 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 
 ### MAGELLAN
 
-* FIX: 
+* FIX: Anpassung im Skript "Schüler korrigieren.dws"
 
 ### Skripte
 
