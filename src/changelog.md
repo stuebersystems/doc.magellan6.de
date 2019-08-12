@@ -1,4 +1,4 @@
-# Was ist neu?
+# Was ist neu
 
 Dieses Kapitel gibt ihnen einen Überblick über aktuelle Änderungen in MAGELLAN 6.
 
