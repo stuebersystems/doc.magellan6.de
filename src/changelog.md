@@ -25,7 +25,7 @@ CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 >
 > Bitte beachten Sie, dass unser Support einen Supportvertrag voraussetzt und für die jeweils aktuelle Ausgabe von MAGELLAN gilt, dass ist aktuell MAGELLAN 7.  **Die Unterstützung für MAGELLAN 6 wird Ende dieses Jahres eingestellt.**
 
-## 6.5.37 - 673 (12.08.2019)
+## 6.5.38 - 673 (12.08.2019)
 
 ### MAGELLAN
 
@@ -34,6 +34,10 @@ CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 ### Statistik
 
 * NEW: Rheinland-Pfalz Statistikmodul 2019. Beachten Sie bitte die aktualisierten Schlüsselverzeichnisse. Bitte beachten Sie die aktualisierte [Statistikdokumentation](https://doc.ls.stueber.de/rheinland-pfalz/abs-bbs/) für RLP.
+
+## 6.5.37
+
+* nicht veröffentlicht
 
 ## 6.5.36 - 673 (19.07.2019)
 
