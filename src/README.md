@@ -1,6 +1,6 @@
 # Über diese Dokumentation
 
-Dies ist die elektronische Dokumentation zu [MAGELLAN 6](https://magellan.stueber.de). 
+Dies ist die Dokumentation zu [MAGELLAN 6](https://magellan.stueber.de). 
 
 ## Inhalte
 
@@ -16,8 +16,8 @@ Dies ist die elektronische Dokumentation zu [MAGELLAN 6](https://magellan.stuebe
 ## Weitere Module
 
 * [MyMAGELLAN](https://doc.mymagellan6.stueber.de)
-* [MAGELLAN Bibliothek](https://doc.magellan6-bibliothek.stueber.de)
-* [MAGELLAN Haushalt & Inventar](https://doc.magellan6-haushalt-inventar.stueber.de)
+* [MAGELLAN BIBLIOTHEK](https://doc.magellan6-bibliothek.stueber.de)
+* [MAGELLAN HAUSHALT & INVENTAR](https://doc.magellan6-haushalt-inventar.stueber.de)
 
 ## Weitere Dokumentationen
 
