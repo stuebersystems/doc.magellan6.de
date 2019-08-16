@@ -12,22 +12,19 @@ Dies ist die elektronische Dokumentation zu [MAGELLAN 6](https://magellan.stuebe
 * [Administration](admin/administration.html)
 * [Referenz](reference/README.md)
 * [Regionales](https://doc.magellan6.stueber.de/regionales/)
-* [Knowledge Base](knowledge-base.md)
 
 ## Weitere Module
 
 * [MyMAGELLAN](https://doc.mymagellan6.stueber.de)
 * [MAGELLAN Bibliothek](https://doc.magellan6-bibliothek.stueber.de)
 * [MAGELLAN Haushalt & Inventar](https://doc.magellan6-haushalt-inventar.stueber.de)
-* [MAGELLAN Klassenbuch](ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Magellan6Klassenbuch.pdf) \(externes PDF\)
 
 ## Weitere Dokumentationen
 
-* [MAGELLAN Importe](https://doc.magellan-import.stueber.de)
-* [MAGELLAN Scripting](https://doc.magellan-scripting.stueber.de)
+* [MAGELLAN Importe](https://doc.magellan6-import.stueber.de)
+* [MAGELLAN Scripting](https://doc.magellan6-scripting.stueber.de)
 * [MAGELLAN & DAVINCI Landesanpassungen](https://doc.la.stueber.de)
 * [MAGELLAN & DAVINCI Landesstatistik](https://doc.ls.stueber.de)
-* [MAGELLAN Knowledgebase](https://doc.magellan6-kb.stueber.de)
 
 Das Dokumentationsportal von STÜBER SYSTEMS finden Sie in unter [doc.stueber.de](http://doc.stueber.de).
 
