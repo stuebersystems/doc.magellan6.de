@@ -29,7 +29,7 @@ CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 
 ### MAGELLAN
 
-* FIX: Anpassung im Skript "Schüler korrigieren.dws"
+* FIX: Anpassung im Skript "Schüler korrigieren.dws" [Falls Sie es nicht schon für das letzte Update druchgeführt hatten: Bitte führen Sie im MAGELLAN Administrator den Punkt `Datenbankpflege > Datenbank überprüfen > Zugriffsrechte synchronisieren` aus, die Nutzer sollten sich im Anschluss bitte einmal neu anmelden.]
 
 ### Statistik
 
@@ -43,8 +43,8 @@ CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 
 ### Skripte
 
-* FIX: "Zuweisen von Kategorietafeln" korrigiert
-* FIX: "Benutzerrechte zuweisen" korrigiert
+* FIX: `Zuweisen von Kategorietafeln` korrigiert
+* FIX: `Benutzerrechte zuweisen` und `Zugriffsrechte synchronisieren` korrigiert [Bitte führen Sie im MAGELLAN Administrator den Punkt `Datenbankpflege > Datenbank überprüfen > Zugriffsrechte synchronisieren` aus, die Nutzer sollten sich im Anschluss bitte einmal neu anmelden.]
 
 ## 6.5.35 - 673 (01.07.2019)
 
