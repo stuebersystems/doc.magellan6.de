@@ -28,3 +28,6 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 
 * FIX: 
   
+### Importe
+
+* FIX: RLP_AS_SchuelerMerkmale.keys und RLP_AS_Faecher.keys
