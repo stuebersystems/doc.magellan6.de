@@ -20,14 +20,3 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 
 ## 6.5.40 - 673
 
-### MAGELLAN
-
-* FIX: Anzeige der Statistiklizenz 2019 (RLP) unter `Hilfe > Lizenz` korrigiert
-
-### Skripte
-
-* FIX: 
-  
-### Importe
-
-* FIX: RLP_AS_SchuelerMerkmale.keys und RLP_AS_Faecher.keys

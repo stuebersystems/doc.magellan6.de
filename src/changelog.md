@@ -25,6 +25,16 @@ CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 >
 > Bitte beachten Sie, dass unser Support einen Supportvertrag voraussetzt und für die jeweils aktuelle Ausgabe von MAGELLAN gilt, dass ist aktuell MAGELLAN 7.  **Die Unterstützung für MAGELLAN 6 wird Ende dieses Jahres eingestellt.**
 
+## 6.5.39 - 673 (20.08.2019)
+
+### MAGELLAN
+
+* FIX: Anzeige der Statistiklizenz 2019 (RLP) unter `Hilfe > Lizenz` korrigiert
+
+### Importe
+
+* FIX: RLP_AS_SchuelerMerkmale.keys und RLP_AS_Faecher.keys
+
 ## 6.5.38 - 673 (12.08.2019)
 
 ### MAGELLAN
