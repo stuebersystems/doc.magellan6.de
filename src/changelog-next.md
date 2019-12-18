@@ -29,3 +29,5 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Bestandteil der Installation ist und unter `Start > Programme > Stüber Systems > MAGELLAN BERICHTE` aufgerufen werden kann.
 
 * FIX: Schülerpersonalblatt (mit Vorbildung).rpt
+* NEW: BER-Schul Z 620 (09.18).rpt
+* NEW: BER-Schul Z 250 (11.19).rpt
