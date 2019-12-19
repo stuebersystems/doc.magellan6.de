@@ -29,6 +29,7 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Bestandteil der Installation ist und unter `Start > Programme > Stüber Systems > MAGELLAN BERICHTE` aufgerufen werden kann.
 
 * FIX: Schülerpersonalblatt (mit Vorbildung).rpt
+* FIX: DAS-GY-AZ mit FHR (Anlage 9b).rpt
 
 ### Neu Berichte für Berlin
 
