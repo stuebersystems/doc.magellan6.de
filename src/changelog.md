@@ -27,6 +27,10 @@ CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 
 ## 6.5.40 - 673 (19.12.2019)
 
+### Skripte
+
+* CHANGE: DE-DIAP-2015.dws (Berechnung der optimalen Punktzahl angepasst)
+  
 ### Berichte
 
 Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Bestandteil der Installation ist und unter `Start > Programme > Stüber Systems > MAGELLAN BERICHTE` aufgerufen werden kann.
@@ -50,7 +54,7 @@ Folgende Berichte wurden um den Bemerkungstext zum Beiblatt Schul Z 620 ergänzt
 * NEW: BER-Schul Z 301 (11.19).rpt
 * NEW: BER-Schul Z 300 (11.19).rpt
 * NEW: BER-Schul Z 302 (11.19).rpt
-* NEW:  BER-Schul Z 303 (11.19).rpt
+* NEW: BER-Schul Z 303 (11.19).rpt
 
 > #### danger::Achtung!
 >
