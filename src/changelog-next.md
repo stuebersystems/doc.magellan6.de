@@ -19,8 +19,15 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 ---
 
 ## 6.5.40 - 673
+## 6.5.41 - 673
 
 ### Magellan
+
+* FIX:
+
+### Berichte
+
+Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Bestandteil der Installation ist und unter `Start > Programme > Stüber Systems > MAGELLAN BERICHTE` aufgerufen werden kann.
 
 ### Skripte
 
