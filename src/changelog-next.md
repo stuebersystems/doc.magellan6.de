@@ -22,4 +22,6 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 
 ### Magellan
 
-* FIX:
+### Skripte
+
+* FIX: DE-DIAP-2015.dws Vorschlagsautomatik korrigiert (Einbringunsgverpflichtung mind. 2 HJ in Naturwissenschaften, optimale Punktzahl)
