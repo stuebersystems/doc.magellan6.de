@@ -20,7 +20,7 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 
 ## 6.5.41 - 673
 
-### Magellan
+### MAGELLAN
 
 * FIX:
 
@@ -31,3 +31,4 @@ Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Besta
 ### Skripte
 
 * FIX: DE-DIAP-2015.dws Vorschlagsautomatik korrigiert (Einbringunsgverpflichtung mind. 2 HJ in Naturwissenschaften, optimale Punktzahl)
+* CHANGE: Importiere SDTF.dws (Unterrichtsart-Schlüssel "L" ist hinzugekommen)
