@@ -30,6 +30,15 @@ Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Besta
 
 * FIX: BER-Schul Z 300 (11.19).rpt (Leerzeichen vor Datumsangabe eingefügt)
 * CHANGE: BER-Schul Z 250 (11.19).rpt (es werden nur Wahlpflichtfächer ausgegeben, die eine Note im Feld "Endnote" eingetragen haben, Wahlpflichtfächer ohne Benotung werden nun auch in der Fachbezeichnung entwertet auf dem Zeugnis ausgegeben)
+
+#### Berichte für Saarland
+
+Unter ...Magellan\Berichte\Zeugnisse\Saarland\Ministerium finden Sie folgende Zeugnisformulare neu abgelegt. Eine Handout zu den Formularen finden auf dem BSCW-Server http://bscw.saarland.de.
+
+* NEW: SAR-GY-AZ (Klassenstufen 5-10)+GEMS-AZ (Einführungsphase).rpt
+* NEW: SAR-GY-AZ (modifiziert Klassenstufen 9 und 10).rpt
+* NEW: SAR-GY-HJZ-JZ (Klassenstufen 5-10)+GEMS-HJZ-JZ (Einführungsphase).rpt
+* NEW: SAR-GY-Verhaltenszeugnis.rpt
   
 ### Skripte
 
