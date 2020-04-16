@@ -18,43 +18,24 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 
 ---
 
-## 6.5.41 - 673
+## 6.5.42 - 673
 
 ### MAGELLAN
 
 * FIX:
+* NEW:
+* CHANGE:
 
 ### Berichte
 
 Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Bestandteil der Installation ist und unter `Start > Programme > Stüber Systems > MAGELLAN BERICHTE` aufgerufen werden kann.
 
-#### Berichte für Saarland
-
-Unter ...Magellan\Berichte\Zeugnisse\Saarland\Ministerium finden Sie folgende Zeugnisformulare neu abgelegt. Eine Handout zu den Formularen finden auf dem BSCW-Server http://bscw.saarland.de.
-
-* NEW: SAR-GY-AZ (Klassenstufen 5-10)+GEMS-AZ (Einführungsphase).rpt
-* NEW: SAR-GY-AZ (modifiziert Klassenstufen 9 und 10).rpt
-* NEW: SAR-GY-HJZ-JZ (Klassenstufen 5-10)+GEMS-HJZ-JZ (Einführungsphase).rpt
-* NEW: SAR-GY-Verhaltenszeugnis.rpt
-
-#### Berichte für Berlin
-
-* FIX: BER-Schul Z 300 (11.19).rpt (Leerzeichen vor Datumsangabe eingefügt)
-* CHANGE: BER-Schul Z 250 (11.19).rpt (es werden nur Wahlpflichtfächer ausgegeben, die eine Note im Feld "Endnote" eingetragen haben, Wahlpflichtfächer ohne Benotung werden nun auch in der Fachbezeichnung entwertet auf dem Zeugnis ausgegeben)
-* FIX: BER-Schul Z 306 (11.19)(FG).rpt (Bereich der Zeugnisbemerkungen nun mit variabler Größe)
-* FIX: BER-Schul Z 306 (11.19).rpt (Bereich der Zeugnisbemerkungen nun mit variabler Größe)
-
-#### Berlin > Berufsschulzeugnisse
-
-* NEW: BER-Schul Z 500 (09.19).rpt > Schul Z 500 – Zeugnis der Berufsschule – (2 Seiten) – (09.19))
-* NEW: BER-Schul Z 501 (09.19).rpt > Schul Z 501 – Abschlusszeugnis der Berufsschule – (3 Seiten) – (09.19)
-* NEW: BER-Schul Z 502 (09.19).rpt > Schul Z 502 – Zeugnis der Berufsschule über den mittleren Schulabschluss – (2 Seiten) – (09.19))
-* NEW: BER-Schul Z 503 (09.19).rpt > Schul Z 503 – Abgangszeugnis der Berufsschule – (2 Seiten) – (09.19)
+* FIX:
+* NEW:
+* CHANGE:
 
 ### Skripte
 
-* NEW: BER-BBS-Matrix-2016.dws (Das Fach **Sport/Gesundheitsförderung** wird nun bei der Ermittlung des Gesamtnotendurchschnitts berücksichtigt.)
-* FIX: DE-DIAP-2015.dws > Vorschlagsautomatik korrigiert (Einbringunsgverpflichtung mind. 2 HJ in Naturwissenschaften, optimale Punktzahl)
-* FIX: DE-DIAP-2015.dws > Vorschlagsautomatik für FHR-Berechnung korrigiert, es werden nun die zulässigen 14 Kurse aus 7 Fächern im Vorschlag markiert
-* CHANGE: Importiere SDTF.dws (Unterrichtsart-Schlüssel "L" ist hinzugekommen)
-* FIX: NRW-APO-2012.dws - Überprüfung für das Fach Musik, ob mehr als 5 Kurse eingebracht wurden für den Fall: dass ein Schüler Musik außerhalb des Abiturbereiches belegt, es können von den 5 möglichen eingebrachten Grundkursen auch max. zwei instrumental- oder vokalpraktischen Kurse sein
+* FIX:
+* NEW:
+* CHANGE:
