@@ -33,7 +33,11 @@ Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Besta
 * FIX:
 * NEW:
 * CHANGE:
+#### Saarland
 
+* NEW: SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.rpt
+* NEW: SAR-FHReife (Nachweis)(GOS2.0).rpt
+* 
 ### Skripte
 
 * FIX:
