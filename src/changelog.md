@@ -31,6 +31,8 @@ CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 
 #### Berlin
 
+Eine Anleitung zu den Zeugnisse Schul Z 500, Schul Z 501, Schul Z 502 und Schul Z 503 finden Sie unter [Anleitung und Berichte Berliner Berufsschulzeugnisse] (https://my.hidrive.com/share/qptlwhk642). Dort finden Sie auch immer die aktuellsten Berichte. Sollten nach Einspielen dieses Updates noch Änderungen an den Berichten erfolgen, werden diese immer aktuell dort abzurufen sein.
+
 * NEW: BER-Schul Z 500 (09.19).rpt > Schul Z 500 – Zeugnis der Berufsschule – (2 Seiten) – (09.19))
 * NEW: BER-Schul Z 501 (09.19).rpt > Schul Z 501 – Abschlusszeugnis der Berufsschule – (3 Seiten) – (09.19)
 * NEW: BER-Schul Z 502 (09.19).rpt > Schul Z 502 – Zeugnis der Berufsschule über den mittleren Schulabschluss – (2 Seiten) – (09.19))
