@@ -30,9 +30,17 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 
 Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Bestandteil der Installation ist und unter `Start > Programme > Stüber Systems > MAGELLAN BERICHTE` aufgerufen werden kann.
 
+#### Berlin
+
+Eine Anleitung zu den Zeugnisse Schul Z 500, Schul Z 501, Schul Z 502 und Schul Z 503 finden Sie unter [Anleitung und Berichte Berliner Berufsschulzeugnisse] (https://my.hidrive.com/share/qptlwhk642). Dort finden Sie auch immer die aktuellsten Berichte. Sollten nach Einspielen dieses Updates noch Änderungen an den Berichten erfolgen, werden diese immer aktuell dort abzurufen sein.
+
+* CHANGE: BER-Schul Z 500 (09.19).rpt (Ausgabe X. Halbjahr der Berufsschule im Zeugniskopf korrigiert, wenn Ausbildungsbeginn im 2. HJ ist, wird nun das Halbjahr korrekt berechnet)
+
 * FIX:
 * NEW:
 * CHANGE:
+  
+
 #### Saarland
 
 * NEW: SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.rpt
