@@ -50,4 +50,4 @@ Eine Anleitung zu den Zeugnisse Schul Z 500, Schul Z 501, Schul Z 502 und Schul 
 
 * FIX:
 * NEW:
-* CHANGE:
+* CHANGE: NRW-APO-BK-2012 und NRW-APO-2012 Abschaffung der so genannten „Abweichungsprüfungen“, (d.h. verpflichtende mündliche Prüfungen im ersten bis dritten Abiturfach bei einer Abweichung der Prüfungsnote von der Vornote von vier oder mehr Punkten)
