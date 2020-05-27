@@ -32,9 +32,13 @@ Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Besta
 
 #### Berlin
 
-Eine Anleitung für die Zeugnisse der Berufsschule (Schul Z 500, Schul Z 501, Schul Z 502 und Schul Z 503) und die Zeugnisse der Berufsfachschule (Schul Z 520, Schul 521, Schul Z 522, Schul Z 523 und Schul Z 526) finden Sie unter [Anleitung und Berichte Berliner Berufsschulzeugnisse] (https://my.hidrive.com/share/qptlwhk642). Dort finden Sie immer die aktuellsten Berichte. Sollten sich nach Einspielen des Updates Korrekturen oder Änderungen ergeben, werden diese dort bereit gestellt.
+Eine Anleitung für die Zeugnisse der Berufsschule (Schul Z 500, Schul Z 501, Schul Z 502 und Schul Z 503) und die Zeugnisse der Berufsfachschule (Schul Z 520, Schul 521, Schul Z 522, Schul Z 523 und Schul Z 526) finden Sie unter [Anleitung und Berichte Berliner Berufsschulzeugnisse] (https://my.hidrive.com/share/qptlwhk642). Dort finden Sie immer die aktuellsten Berichte. Sollten sich nach Einspielen des Updates Korrekturen oder Änderungen ergeben, werden diese dort vorab bereit gestellt.
 
-* CHANGE: BER-Schul Z 500 (09.19).rpt (Ausgabe X. Halbjahr der Berufsschule im Zeugniskopf korrigiert, wenn Ausbildungsbeginn im 2. HJ ist, wird nun das Halbjahr korrekt berechnet)
+* CHANGE: BER-Schul Z 500 (09.19).rpt (Ausgabe X. Halbjahr der Berufsschule im Zeugniskopf korrigiert, wenn Ausbildungsbeginn im 2. HJ ist, wird nun das Halbjahr korrekt berechnet, Logo neu eingefügt, lange Fachbezeichnungen im Berufsübergreifenden Bereich werden zweizeilig ausgegeben)
+* CHANGE: BER-Schul Z 501 (09.19).rpt (Fußnote 4 wird korrekt ausgegeben)
+* CHANGE: BER-Schul Z 503 (09.19).rpt (Logo neu eingefügt)
+
+![Umbruch Fachbezeichnung des Berufsübergreifenden Bereiches](/images/liesmich/6.5.42_01.png)
 
 * NEW: BER-Schul Z 520 (09.19).rpt
 * NEW: BER-Schul Z 521 (09.19).rpt
