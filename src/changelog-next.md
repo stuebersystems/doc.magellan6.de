@@ -42,7 +42,8 @@ Berufsfachschule | Schul Z 520, Schul 521, Schul Z 522, Schul Z 523, Schul Z 526
 CHANGE | Zeugnisformular
 --|--
 BER-Schul Z 500 (09.19).rpt | Ausgabe X. Halbjahr der Berufsschule im Zeugniskopf korrigiert, wenn Ausbildungsbeginn im 2. HJ ist, wird nun das Halbjahr korrekt berechnet, Logo neu eingefügt, lange Fachbezeichnungen im Berufsübergreifenden Bereich sowie Wahlpflicht/Wahlunterricht werden zweizeilig ausgegeben
-BER-Schul Z 501 (09.19).rpt | Fußnote 4 wird korrekt ausgegeben
+BER-Schul Z 501 (09.19).rpt | Fußnote 4 wird korrekt ausgegeben, das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü Berufsschule > Matrix gezogen, Füllwerte o. B., b.f.werden wieder korrekt ausgegeben
+BER-Schul Z 502 (09.19).rpt | das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü Berufsschule > Matrix gezogen
 BER-Schul Z 503 (09.19).rpt | Logo neu eingefügt, lange Fachbezeichnungen im Berufsübergreifenden Bereich sowie Wahlpflicht/Wahlunterricht werden zweizeilig ausgegeben
 
 ![Umbruch Fachbezeichnung des Berufsübergreifenden Bereiches (Schul Z 500, Schul Z 503)](/images/liesmich/6.5.42_01.png)
