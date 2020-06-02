@@ -30,7 +30,7 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 
 Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Bestandteil der Installation ist und unter `Start > Programme > Stüber Systems > MAGELLAN BERICHTE` aufgerufen werden kann.
 
-#### Berlin
+#### Berlin (Berufsbildende Schulen)
 
 Die aktuellesten Zeugnisse und eine Anleitung zu den Eingaben in MAGELLAN für jedes Zeugnis finden Sie  [hier](https://my.hidrive.com/share/qptlwhk642). Sollten sich nach Einspielen des Updates Korrekturen oder Änderungen ergeben, werden diese dort vorab bereit gestellt.
 
@@ -54,6 +54,11 @@ BER-Schul Z 503 (09.19).rpt | Logo neu eingefügt, lange Fachbezeichnungen im Be
 * NEW: BER-Schul Z 523 (09.19).rpt
 * NEW: BER-Schul Z 526 (09.19).rpt
 
+#### Berlin (Allgemeinbildende Schulen)
+
+* NEW: BER-Schul Z 255 (2019.2020).rpt
+* NEW: BER-Schul Z 256 (2019.2020).rpt
+  
 #### Saarland
 
 * NEW: SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.rpt
