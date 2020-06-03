@@ -58,6 +58,7 @@ BER-Schul Z 503 (09.19).rpt | Logo neu eingefügt, lange Fachbezeichnungen im Be
 
 * NEW: BER-Schul Z 255 (2019.2020).rpt
 * NEW: BER-Schul Z 256 (2019.2020).rpt
+* NEW: BER-Schul Z 324 (11.19).rpt
   
 #### Saarland
 
