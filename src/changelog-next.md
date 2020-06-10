@@ -66,12 +66,15 @@ BER-Schul Z 503 (09.19).rpt | Logo neu eingefügt, lange Fachbezeichnungen im Be
   
 #### Saarland
 
-* NEW: SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.rpt
-* NEW: SAR-FHReife (Nachweis)(GOS2.0).rpt
-
 > #### wichtig::Hinweis!
 >
-> Die Zeugnisse *SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.rpt* und *SAR-FHReife (Nachweis)(GOS2.0).rpt* werden Ihnen auf dem BSCW Server unter https://bscw.saarland.de/ bereit gestellt.
+> Die Zeugnisse für Allgemeinbildende Schulen werden Ihnen auch über den [BSCW Server](https://bscw.saarland.de/) bereit gestellt.
+
+
+* NEW: SAR-GEMS-AS (Klasse 9 ohne Prüfung)(ab 2020).rpt
+* NEW: SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2020).rpt
+* NEW: SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.rpt
+* NEW: SAR-FHReife (Nachweis)(GOS2.0).rpt
 
 ### Skripte
 
