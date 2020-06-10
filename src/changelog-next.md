@@ -32,12 +32,16 @@ Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Besta
 
 #### Berlin (Berufsbildende Schulen)
 
-Die aktuellesten Zeugnisse und eine Anleitung zu den Eingaben in MAGELLAN für jedes Zeugnis finden Sie  [hier](https://my.hidrive.com/share/qptlwhk642). Sollten sich nach Einspielen des Updates Korrekturen oder Änderungen ergeben, werden diese dort vorab bereit gestellt.
+> #### wichtig::Hinweis!
+>
+> Die aktuellesten Zeugnisse und Anleitungen zu den Eingaben in MAGELLAN für jedes Zeugnis finden Sie  [hier](https://my.hidrive.com/share/qptlwhk642). Sollten sich nach Einspielen des Updates Korrekturen oder Änderungen ergeben, werden diese dort vorab bereit gestellt.
 
-Ordner | Zeugnisformulare
+Ordner | Inhalt
 --|--
-Berufsschule | Schul Z 500, Schul Z 501, Schul Z 502, Schul Z 503 
-Berufsfachschule | Schul Z 520, Schul 521, Schul Z 522, Schul Z 523, Schul Z 526 
+BS Zeugnisse | Schul Z 500, Schul Z 501, Schul Z 502, Schul Z 503 
+BFS Zeugnisse | Schul Z 520, Schul 521, Schul Z 522, Schul Z 523, Schul Z 526
+IBA Zeugnisse | Schul Z 590
+Berechnungsskripte | BER-BBS-Matrix-2016.dws, BER-BFS-Matrix-2016.dws, BER-IBA-HJ-2020.dws
 
 CHANGE | Zeugnisformular
 --|--
