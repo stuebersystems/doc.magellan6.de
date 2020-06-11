@@ -52,6 +52,10 @@ BER-Schul Z 503 (09.19).rpt | Logo neu eingefügt, lange Fachbezeichnungen im Be
 
 ![Umbruch Fachbezeichnung des Berufsübergreifenden Bereiches (Schul Z 500, Schul Z 503)](/images/liesmich/6.5.42_01.png)
 
+CHANGE | Zeugnisformular
+--|--
+BER-Schul Z 520 (09.19).rpt | Ausbildungsbetrieb aus Unterschriftsbereich entfernt, Entwertungen alle mittig
+
 * NEW: BER-Schul Z 520 (09.19).rpt
 * NEW: BER-Schul Z 521 (09.19).rpt
 * NEW: BER-Schul Z 522 (09.19).rpt
