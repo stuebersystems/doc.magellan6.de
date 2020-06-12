@@ -16,11 +16,8 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 | NEW | Neue Funktionalität |
 | CHANGE | Änderung des Ablaufs, der Verarbeitung oder Bedienung |
 
----
 
 ## 6.5.43 - 674
-
-
 
 ### MAGELLAN
 
