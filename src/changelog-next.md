@@ -43,19 +43,24 @@ Berechnungsskripte | BER-BBS-Matrix-2016.dws, BER-BFS-Matrix-2016.dws, BER-IBA-H
 
 CHANGE | BS Zeugnisformulare
 --|--
-BER-Schul Z 500 (09.19).rpt | 
-BER-Schul Z 501 (09.19).rpt | 
+BER-Schul Z 500 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
+BER-Schul Z 501 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
 BER-Schul Z 502 (09.19).rpt | 
-BER-Schul Z 503 (09.19).rpt | Siegel blau eingefügt
+BER-Schul Z 503 (09.19).rpt | Siegel blau eingefügt, Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
 
 
 CHANGE | BFS Zeugnisformulare
 --|--
-BER-Schul Z 520 (09.19).rpt | 
+BER-Schul Z 520 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
 BER-Schul Z 521 (09.19).rpt |
 BER-Schul Z 522 (09.19).rpt |
-BER-Schul Z 523 (09.19).rpt |
-BER-Schul Z 526 (09.19).rpt |
+BER-Schul Z 523 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT, Kopf "Abschlusszeugnisses der Berufsfachschule"
+BER-Schul Z 526 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
+
+CHANGE | IBA Zeugnisformulare
+--|--
+BER-Schul Z 590 (12.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
+
 
 ### Skripte
 
