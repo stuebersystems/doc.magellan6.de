@@ -27,7 +27,36 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 
 Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Bestandteil der Installation ist und unter `Start > Programme > Stüber Systems > MAGELLAN BERICHTE` aufgerufen werden kann.
 
+#### Berlin (Berufsbildende Schulen)
+
+> #### wichtig::Hinweis!
+>
+> Die aktuellesten Zeugnisse und Anleitungen zu den Eingaben in MAGELLAN für jedes Zeugnis finden Sie  [hier](https://my.hidrive.com/share/qptlwhk642). Sollten sich nach Einspielen des Updates Korrekturen oder Änderungen ergeben, werden diese dort vorab bereit gestellt.
+
+Ordner | Inhalt
+--|--
+BS Zeugnisse | Schul Z 500, Schul Z 501, Schul Z 502, Schul Z 503 
+BFS Zeugnisse | Schul Z 520, Schul 521, Schul Z 522, Schul Z 523, Schul Z 526
+IBA Zeugnisse | Schul Z 590
+Berechnungsskripte | BER-BBS-Matrix-2016.dws, BER-BFS-Matrix-2016.dws, BER-IBA-HJ-2020.dws
+
+
+CHANGE | BS Zeugnisformulare
+--|--
+BER-Schul Z 500 (09.19).rpt | 
+BER-Schul Z 501 (09.19).rpt | 
+BER-Schul Z 502 (09.19).rpt | 
+BER-Schul Z 503 (09.19).rpt | Siegel blau eingefügt
+
+
+CHANGE | BFS Zeugnisformulare
+--|--
+BER-Schul Z 520 (09.19).rpt | 
+BER-Schul Z 521 (09.19).rpt |
+BER-Schul Z 522 (09.19).rpt |
+BER-Schul Z 523 (09.19).rpt |
+BER-Schul Z 526 (09.19).rpt |
 
 ### Skripte
 
-* NEW: 
+* NEW: BER-IBA-HJ-2020.dws (Doku unter https://doc.la.stueber.de/03.ber/ber-iba-hj-2020dws/)
