@@ -61,7 +61,8 @@ CHANGE | IBA Zeugnisformulare
 --|--
 BER-Schul Z 590 (12.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
 
-
+* FIX: BER-Schul Z 300 (11.19).rpt (Versetzungsvermerk korrigiert, wird ein Schüler nicht versetzt, gibt des Zeugni "Nicht versetzt...." aus)
+  
 ### Skripte
 
 * NEW: BER-IBA-HJ-2020.dws (Doku unter https://doc.la.stueber.de/03.ber/ber-iba-hj-2020dws/)
