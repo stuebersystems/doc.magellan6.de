@@ -62,6 +62,16 @@ CHANGE | IBA Zeugnisformulare
 BER-Schul Z 590 (12.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
 
 * FIX: BER-Schul Z 300 (11.19).rpt (Versetzungsvermerk korrigiert, wird ein Schüler nicht versetzt, gibt des Zeugni "Nicht versetzt...." aus)
+
+#### Saarland
+
+> #### wichtig::Hinweis!
+>
+> Die Zeugnisse für Allgemeinbildende Schulen werden Ihnen auch über den [BSCW Server](https://bscw.saarland.de/) bereit gestellt.
+
+
+* CHANGE: SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.rpt
+* CHANGE: SAR-FHReife (Nachweis)(GOS2.0).rpt
   
 ### Skripte
 
