@@ -83,10 +83,10 @@ Um die aktuellen Schlüsselverzeichnisse für Berlin nach MAGELLAN zu importiere
 3.	Klicken Sie auf `Starten `im Punkt `Schlüsselverzeichnisse importieren`.
 4.	Im Dialogfenster geben Sie Ihr Bundesland Berlin, Ihre Schulart und den Mandanten (Ihre Schule) an. Unter `Importiere folgenden Katalog` wählen Sie entweder den Wert `Alle Kataloge` oder einen bestimmten Katalog. Bestätigen Sie dann mit `OK`.
 
-
 ## 	Statistisch relevante Daten eingeben
 
 Bei einem Großteil der statistisch relevanten Daten handelt es sich um Stammdaten, die bei der alltäglichen Arbeit bereits erfasst wurden. Einige Daten werden Sie nachtragen müssen. Alle für die Statistik erforderlichen Daten finden Sie nachfolgend im in einer tabellarischen Übersicht „Statistikfelder mit Beschreibung“.
+
 
 ##	Statistikdaten erstellen
 
