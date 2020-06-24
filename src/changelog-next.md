@@ -51,15 +51,15 @@ BER-Schul Z 503 (09.19).rpt | Siegel blau eingefügt, Rechtschreibfehler BERUFS�
 
 CHANGE | BFS Zeugnisformulare
 --|--
-BER-Schul Z 520 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
+BER-Schul Z 520 (09.19).rpt | verschiedene Korrekturen
 BER-Schul Z 521 (09.19).rpt |
 BER-Schul Z 522 (09.19).rpt |
-BER-Schul Z 523 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT, Kopf "Abschlusszeugnisses der Berufsfachschule"
-BER-Schul Z 526 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
+BER-Schul Z 523 (09.19).rpt | verschiedene Korrekturen, Kopf "Abschlusszeugnisses der Berufsfachschule"
+BER-Schul Z 526 (09.19).rpt | verschiedene Korrekturen
 
 CHANGE | IBA Zeugnisformulare
 --|--
-BER-Schul Z 590 (12.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
+BER-Schul Z 590 (12.19).rpt | verschiedene Korrekturen, Zeugnis kann für 1.HJ und 2.HJ als Halbjahreszeugnis genutzt werden
 
 * FIX: BER-Schul Z 300 (11.19).rpt (Versetzungsvermerk korrigiert, wird ein Schüler nicht versetzt, gibt des Zeugni "Nicht versetzt...." aus)
 
