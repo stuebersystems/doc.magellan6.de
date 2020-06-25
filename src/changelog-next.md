@@ -37,8 +37,8 @@ Ordner | Inhalt
 --|--
 BS Zeugnisse | Schul Z 500, Schul Z 501, Schul Z 502, Schul Z 503 
 BFS Zeugnisse | Schul Z 520, Schul 521, Schul Z 522, Schul Z 523, Schul Z 526
-IBA Zeugnisse | Schul Z 590
-Berechnungsskripte | BER-BBS-Matrix-2016.dws, BER-BFS-Matrix-2016.dws, BER-IBA-HJ-2020.dws
+IBA Zeugnisse | Schul Z 590, Schul Z 591, Schul Z 592, Schul Z 593, Schul Z 594
+Berechnungsskripte | BER-BBS-Matrix-2016.dws, BER-BFS-Matrix-2016.dws, BER-IBA-HJ-2020.dws, BER-IBA-AS-2020.dws
 
 
 CHANGE | BS Zeugnisformulare
@@ -61,7 +61,7 @@ CHANGE | IBA Zeugnisformulare
 --|--
 BER-Schul Z 590 (12.19).rpt | verschiedene Korrekturen, Zeugnis kann für 1.HJ und 2.HJ als Halbjahreszeugnis genutzt werden
 
-* FIX: BER-Schul Z 300 (11.19).rpt (Versetzungsvermerk korrigiert, wird ein Schüler nicht versetzt, gibt des Zeugni "Nicht versetzt...." aus)
+* FIX: BER-Schul Z 300 (11.19).rpt (Versetzungsvermerk korrigiert, wird ein Schüler nicht versetzt, gibt des Zeugnis "Nicht versetzt...." aus)
 
 #### Saarland
 
@@ -69,10 +69,10 @@ BER-Schul Z 590 (12.19).rpt | verschiedene Korrekturen, Zeugnis kann für 1.HJ u
 >
 > Die Zeugnisse für Allgemeinbildende Schulen werden Ihnen auch über den [BSCW Server](https://bscw.saarland.de/) bereit gestellt.
 
-
-* CHANGE: SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.rpt
-* CHANGE: SAR-FHReife (Nachweis)(GOS2.0).rpt
+* CHANGE: SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.rpt (Layoutänderungen)
+* CHANGE: SAR-FHReife (Nachweis)(GOS2.0).rpt (Layoutänderungen)
   
 ### Skripte
 
 * NEW: BER-IBA-HJ-2020.dws (Doku unter https://doc.la.stueber.de/03.ber/ber-iba-hj-2020dws/)
+* NEW: BER-IBA-AS-2020.dws (Doku unter https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/)
