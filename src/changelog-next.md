@@ -31,7 +31,8 @@ Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Besta
 
 > #### wichtig::Hinweis!
 >
-> Die aktuellesten Zeugnisse und Anleitungen zu den Eingaben in MAGELLAN für jedes Zeugnis finden Sie  [hier](https://my.hidrive.com/share/qptlwhk642). Sollten sich nach Einspielen des Updates Korrekturen oder Änderungen ergeben, werden diese dort vorab bereit gestellt.
+> Die aktuellesten Zeugnisse und Anleitungen zu den Eingaben in MAGELLAN für jedes Zeugnis finden Sie aktuell [hier](https://my.hidrive.com/share/qptlwhk642). Sollten sich nach Einspielen des Updates Korrekturen oder Änderungen an den Berichten ergeben, werden diese dort vorab bereit gestellt. Alle Anleitungen zu den Zeugnisformularen finden Sie zukünftig unter https://doc.la.stueber.de/berichte/zeugnisse/ber_zeugnisse/
+
 
 Ordner | Inhalt
 --|--
