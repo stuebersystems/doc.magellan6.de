@@ -31,14 +31,15 @@ Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Besta
 
 > #### wichtig::Hinweis!
 >
-> Die aktuellesten Zeugnisse und Anleitungen zu den Eingaben in MAGELLAN für jedes Zeugnis finden Sie  [hier](https://my.hidrive.com/share/qptlwhk642). Sollten sich nach Einspielen des Updates Korrekturen oder Änderungen ergeben, werden diese dort vorab bereit gestellt.
+> Die aktuellesten Zeugnisse und Anleitungen zu den Eingaben in MAGELLAN für jedes Zeugnis finden Sie aktuell [hier](https://my.hidrive.com/share/qptlwhk642). Sollten sich nach Einspielen des Updates Korrekturen oder Änderungen an den Berichten ergeben, werden diese dort vorab bereit gestellt. Alle Anleitungen zu den Zeugnisformularen finden Sie zukünftig unter https://doc.la.stueber.de/berichte/zeugnisse/ber_zeugnisse/
+
 
 Ordner | Inhalt
 --|--
 BS Zeugnisse | Schul Z 500, Schul Z 501, Schul Z 502, Schul Z 503 
 BFS Zeugnisse | Schul Z 520, Schul 521, Schul Z 522, Schul Z 523, Schul Z 526
-IBA Zeugnisse | Schul Z 590
-Berechnungsskripte | BER-BBS-Matrix-2016.dws, BER-BFS-Matrix-2016.dws, BER-IBA-HJ-2020.dws
+IBA Zeugnisse | Schul Z 590, Schul Z 591, Schul Z 592, Schul Z 593, Schul Z 594
+Berechnungsskripte | BER-BBS-Matrix-2016.dws, BER-BFS-Matrix-2016.dws, BER-IBA-HJ-2020.dws, BER-IBA-AS-2020.dws
 
 
 CHANGE | BS Zeugnisformulare
@@ -51,17 +52,19 @@ BER-Schul Z 503 (09.19).rpt | Siegel blau eingefügt, Rechtschreibfehler BERUFS�
 
 CHANGE | BFS Zeugnisformulare
 --|--
-BER-Schul Z 520 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
+BER-Schul Z 520 (09.19).rpt | verschiedene Korrekturen
 BER-Schul Z 521 (09.19).rpt |
 BER-Schul Z 522 (09.19).rpt |
-BER-Schul Z 523 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT, Kopf "Abschlusszeugnisses der Berufsfachschule"
-BER-Schul Z 526 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
+BER-Schul Z 523 (09.19).rpt | verschiedene Korrekturen, Kopf "Abschlusszeugnisses der Berufsfachschule"
+BER-Schul Z 526 (09.19).rpt | verschiedene Korrekturen
 
 CHANGE | IBA Zeugnisformulare
 --|--
-BER-Schul Z 590 (12.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
+BER-Schul Z 590 (12.19).rpt | verschiedene Korrekturen, Zeugnis kann für 1.HJ und 2.HJ als Halbjahreszeugnis genutzt werden
 
-* FIX: BER-Schul Z 300 (11.19).rpt (Versetzungsvermerk korrigiert, wird ein Schüler nicht versetzt, gibt des Zeugni "Nicht versetzt...." aus)
+* FIX: BER-Schul Z 300 (11.19).rpt (Versetzungsvermerk korrigiert, wird ein Schüler nicht versetzt, gibt des Zeugnis "Nicht versetzt...." aus)
+* FIX: BER-Schul Z 306 (11.19).rpt (Punktsumme aus 24 Grundkursen in einfacher Wertung korrigiert, wenn eines der Prüfungsfächer BLL oder PRS ist)
+* FIX: BER-Schul Z 306 (11.19)(FG).rpt (Punktsumme aus 24 Grundkursen in einfacher Wertung korrigiert, wenn eines der Prüfungsfächer BLL oder PRS ist)
 
 #### Saarland
 
@@ -69,9 +72,8 @@ BER-Schul Z 590 (12.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICH
 >
 > Die Zeugnisse für Allgemeinbildende Schulen werden Ihnen auch über den [BSCW Server](https://bscw.saarland.de/) bereit gestellt.
 
-
-* CHANGE: SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.rpt
-* CHANGE: SAR-FHReife (Nachweis)(GOS2.0).rpt
+* CHANGE: SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.rpt (Layoutänderungen)
+* CHANGE: SAR-FHReife (Nachweis)(GOS2.0).rpt (Layoutänderungen)
   
 ### Skripte
 
@@ -79,3 +81,4 @@ BER-Schul Z 590 (12.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICH
 
 * CHANGE: NRW-APO-BK-2012: Abfrage der Unterrichtsart DB/Diff
 * (Doku unter https://doc.la.stueber.de/08.nrw/nrw-apo-bk-2012/)
+* NEW: BER-IBA-AS-2020.dws (Doku unter https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/)
