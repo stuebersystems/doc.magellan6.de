@@ -79,6 +79,4 @@ BER-Schul Z 590 (12.19).rpt | verschiedene Korrekturen, Zeugnis kann für 1.HJ u
 
 * NEW: BER-IBA-HJ-2020.dws (Doku unter https://doc.la.stueber.de/03.ber/ber-iba-hj-2020dws/)
 
-* CHANGE: NRW-APO-BK-2012: Abfrage der Unterrichtsart DB/Diff
-* (Doku unter https://doc.la.stueber.de/08.nrw/nrw-apo-bk-2012/)
-* NEW: BER-IBA-AS-2020.dws (Doku unter https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/)
+* CHANGE: NRW-APO-BK-2012: Abfrage der Unterrichtsart DB/Diff (Doku unter https://doc.la.stueber.de/08.nrw/nrw-apo-bk-2012/)
