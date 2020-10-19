@@ -68,6 +68,10 @@ BER-Schul Z 590 (12.19).rpt | verschiedene Korrekturen, Zeugnis kann für 1.HJ u
 * FIX: BER-Schul Z 306 (11.19).rpt (Punktsumme aus 24 Grundkursen in einfacher Wertung korrigiert, wenn eines der Prüfungsfächer BLL oder PRS ist)
 * FIX: BER-Schul Z 306 (11.19)(FG).rpt (Punktsumme aus 24 Grundkursen in einfacher Wertung korrigiert, wenn eines der Prüfungsfächer BLL oder PRS ist)
 
+#### Berlin (Allgemeinbildende Schulen)
+
+* NEW: BER-Schul Z 251 (11.19).rpt (Schul Z 251 – Zeugnis des Gymnasiums, Jahrgangsstufen 5 und 6 – (11.19), Dieses Zeugnis können Sie auch [hier herunterladen](https://my.hidrive.com/share/obi.po07fi). 
+
 #### Saarland
 
 > #### wichtig::Hinweis!
