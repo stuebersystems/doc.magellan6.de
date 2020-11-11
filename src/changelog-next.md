@@ -63,6 +63,8 @@ BER-Schul Z 526 (09.19).rpt | verschiedene Korrekturen
 CHANGE | IBA Zeugnisformulare
 --|--
 BER-Schul Z 590 (12.19).rpt | verschiedene Korrekturen, Zeugnis kann für 1.HJ und 2.HJ als Halbjahreszeugnis genutzt werden
+BER-Schul Z 592 (03.20).rpt| verschiedene Korrekturen
+BER-Schul Z 593 (10.20).rpt| verschiedene Korrekturen
 
 * FIX: BER-Schul Z 300 (11.19).rpt (Versetzungsvermerk korrigiert, wird ein Schüler nicht versetzt, gibt des Zeugnis "Nicht versetzt...." aus)
 * FIX: BER-Schul Z 306 (11.19).rpt (Punktsumme aus 24 Grundkursen in einfacher Wertung korrigiert, wenn eines der Prüfungsfächer BLL oder PRS ist)
