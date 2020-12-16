@@ -16,25 +16,17 @@ Sie erhalten hier einen Überblick über die voraussichtlichen Änderungen und K
 | NEW | Neue Funktionalität |
 | CHANGE | Änderung des Ablaufs, der Verarbeitung oder Bedienung |
 
-
 ## 6.5.43 - 674
-
-
-
-### MAGELLAN
-
-* NEW: 
 
 ### Berichte
 
-Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Bestandteil der Installation ist und unter `Start > Programme > Stüber Systems > MAGELLAN BERICHTE` aufgerufen werden kann.
+Alle Anleitungen zu den Zeugnisformularen finden Sie unter [https://doc.la.stueber.de/berichte/](https://doc.la.stueber.de/berichte/)
 
 #### Berlin (Berufsbildende Schulen)
 
 > #### wichtig::Hinweis!
 >
-> Die aktuellesten Zeugnisse und Anleitungen zu den Eingaben in MAGELLAN für jedes Zeugnis finden Sie aktuell [hier](https://my.hidrive.com/share/qptlwhk642). Sollten sich nach Einspielen des Updates Korrekturen oder Änderungen an den Berichten ergeben, werden diese dort vorab bereit gestellt. Alle Anleitungen zu den Zeugnisformularen finden Sie zukünftig unter https://doc.la.stueber.de/berichte/zeugnisse/ber_zeugnisse/
-
+> Die aktuellesten Zeugnisse und Anleitungen zu den Eingaben in MAGELLAN für jedes Zeugnis finden Sie aktuell [hier](https://my.hidrive.com/share/qptlwhk642). Sollten sich nach Einspielen des Updates Korrekturen oder Änderungen an den Berichten ergeben, werden diese dort vorab bereit gestellt. Alle Anleitungen zu den Zeugnisformularen finden Sie zukünftig unter [https://doc.la.stueber.de/berichte/zeugnisse/ber_zeugnisse/](https://doc.la.stueber.de/berichte/zeugnisse/ber_zeugnisse/)
 
 Ordner | Inhalt
 --|--
@@ -43,14 +35,12 @@ BFS Zeugnisse | Schul Z 520, Schul 521, Schul Z 522, Schul Z 523, Schul Z 526
 IBA Zeugnisse | Schul Z 590, Schul Z 591, Schul Z 592, Schul Z 593, Schul Z 594
 Berechnungsskripte | BER-BBS-Matrix-2016.dws, BER-BFS-Matrix-2016.dws, BER-IBA-HJ-2020.dws, BER-IBA-AS-2020.dws
 
-
 CHANGE | BS Zeugnisformulare
 --|--
 BER-Schul Z 500 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT
 BER-Schul Z 501 (09.19).rpt | Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT, Ausgabe Wahlb/WahlPF rechte Spalte korrigiert
 BER-Schul Z 502 (09.19).rpt | Datum des Gesamtnotendurchschnittes entspricht dem Zeugnisdatum
 BER-Schul Z 503 (09.19).rpt | Siegel blau eingefügt, Rechtschreibfehler BERUFSÜBERGREIFENDER UNTERRICHT, im Kopf "Die Leistungen in alle(n) Schulhalbjahren..... hier wurde "n" ergänzt
-
 
 CHANGE | BFS Zeugnisformulare
 --|--
