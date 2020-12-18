@@ -23,7 +23,8 @@ CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 > #### danger::Achtung!
 >
 >
-> Bitte beachten Sie, dass unser Support einen Supportvertrag voraussetzt und für die jeweils aktuelle Ausgabe von MAGELLAN gilt, dass ist aktuell MAGELLAN 7.  **Die Unterstützung für MAGELLAN 6 wird Ende des Jahres 2019 eingestellt.**
+> Bitte beachten Sie, dass unser Support einen Supportvertrag voraussetzt und für die jeweils aktuelle Ausgabe von MAGELLAN gilt, dass ist aktuell MAGELLAN 7.  
+>**Die Unterstützung für MAGELLAN 6 wurde Ende 2019 eingestellt.**
 
 ## Dateien, die per Download angeboten werden
 
