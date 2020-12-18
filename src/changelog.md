@@ -54,9 +54,9 @@ CHANGE | BFS Zeugnisformulare
 --|--
 BER-Schul Z 520 (09.19).rpt | verschiedene Korrekturen
 BER-Schul Z 521 (09.19).rpt |
-BER-Schul Z 522 (09.19).rpt |
+BER-Schul Z 522 (09.19).rpt | 18.12.2020 Füllwerte können angezeigt werden
 BER-Schul Z 523 (09.19).rpt | verschiedene Korrekturen, Kopf "Abschlusszeugnisses der Berufsfachschule"
-BER-Schul Z 526 (09.19).rpt | verschiedene Korrekturen
+BER-Schul Z 526 (09.19).rpt | 18.12.2020 Füllwerte können angezeigt werden
 
 CHANGE | IBA Zeugnisformulare
 --|--
