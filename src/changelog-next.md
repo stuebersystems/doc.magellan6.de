@@ -85,3 +85,5 @@ BER-Schul Z 593 (10.20).rpt| verschiedene Korrekturen
 
 * FIX: BER-IBA-HJ-2020.dws - Korrekturen
 * FIX: BER-IBA-AS-2020.dws - Berechnung des Abschluss für das 1. HJ, Korrekturen
+
+* NEW: SAR-APO-2018.dws - Basierend auf der Verordnung zur Änderung der Verordnung – Schul-und Prüfungsordnung über die gymnasiale Oberstufe und die Abiturprüfung im Saarland vom 17. April 2018
