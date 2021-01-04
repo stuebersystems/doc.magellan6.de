@@ -84,4 +84,4 @@ BER-Schul Z 593 (10.20).rpt| verschiedene Korrekturen
 * FIX: SAR-APO-DFG-2014.dws: PreCheckPruefungsbereichFehler
 
 * FIX: BER-IBA-HJ-2020.dws - Korrekturen
-* FIX: BER-IBA-AS-2020.dws - Berechnung des Abschluss für das 1. HJ, Korrkturen
+* FIX: BER-IBA-AS-2020.dws - Berechnung des Abschluss für das 1. HJ, Korrekturen
