@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/tvo9ru5mrtp4h483?svg=true)](https://ci.appveyor.com/project/stueber/doc-magellan6-de)
-
 # MAGELLAN 6 Dokumentation
 
 Dies ist die deutsche Dokumentation zu MAGELLAN 6. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
