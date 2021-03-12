@@ -43,7 +43,7 @@ Starten Sie anschließend den Assistenten mit `Weiter` und `Fertigstellen`.
 
 > #### primary::Hinweis
 >
-> Sollten Sie den Übertrag bereits einmal durchgeführt haben, können Sie jederzeit eine "frische" leere Datenbank im MAGELLAN 7-Format herunterladen. Alternativ erhalten Sie über diesen [Link](ftp://ftp.stueber.de/pub/bin/de/magellan/v7/database/MAGELLAN7.FDB) eine leere Datenbank.
+> Sollten Sie den Übertrag bereits einmal durchgeführt haben, können Sie jederzeit eine "frische" leere Datenbank im MAGELLAN 7-Format herunterladen. Alternativ erhalten Sie über diesen [Link](https://download.stueber.de/bin/de/magellan/v7/database/MAGELLAN7.FDB) eine leere Datenbank.
 
 
 

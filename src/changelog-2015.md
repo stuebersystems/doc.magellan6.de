@@ -837,7 +837,7 @@ Datenstruktur durch einen Assistenten. [Weitere Infos finden Sie hier].
 + Neu: Unter "Ansicht Mandanten|Daten 1" gibt es das neu Feld "Prüfungsnummer". [Tabelle Mandanten|PruefungsNr]
 + Neu: Für Berlin wird die Abiturschnittstelle 2015 mit dieser Ausgabe freigegeben. Bitte beachten Sie 
   dazu das aktualisierte Dokument Magellan6Berlin.pdf auf unserer Webseite:
-  ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Magellan6Berlin.pdf
+  https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Magellan6Berlin.pdf
 + Neu: Unter Verzeichnisse|Zeiträume|Art wird die Art nachgetragen, für Halbjahre, in denen die Angabe fehlt   
 
 ### Skripte:
@@ -865,7 +865,7 @@ Datenstruktur durch einen Assistenten. [Weitere Infos finden Sie hier].
   "Ansicht Schüler|Bearbeiten|Sammelzuweisung..." mehreren Schülern zugewiesen werden.
 + Neu: Ansicht Schüler/Bewerber|Bearbeiten|Export|Schüler Berlin exportieren: Es wird jetzt auch das neue Feld für den 
   Jahrgang des Schülers exportiert. Bitte beachten Sie dazu das aktualisierte Dokument Magellan6Berlin.pdf auf unserer 
-  Webseite:  ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Magellan6Berlin.pdf  
+  Webseite:  https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Magellan6Berlin.pdf  
 + Neu: Ansicht Schüler|Zugang/Abgang: Durch Markieren des Optionsfeldes "Als neue Herkunftsschule übernehmen" wird die
   neue eingetragene Schule zur neuen Herkunftsschule des Schülers.
 

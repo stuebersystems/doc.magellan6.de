@@ -22,21 +22,15 @@ Um die Daten Ihrer MAGELLAN 6-Datenbank in eine MAGELLAN 7-Datenbank übernehmen
 
 Führen Sie als nächstes bitte die Installation von MAGELLAN 7 aus, beide Version (6 + 7) können parallel auf einem Rechner laufen (haben aber getrennte Datenbanken). Eine ausführliche Installationsanleitung finden Sie nachstehend.
 
-
-
 > ####### warning::Wichtig!
 >
->  Benötigen Sie eine "frische" leere Datenbank im MAGELLAN 7-Format können Sie diese [hier](ftp://ftp.stueber.de/pub/bin/de/magellan/v7/database/MAGELLAN7.FDB) herunterladen.
-
-
+>  Benötigen Sie eine "frische" leere Datenbank im MAGELLAN 7-Format können Sie diese [hier](https://download.stueber.de/bin/de/assets/magellan/v7/database/MAGELLAN7.FDB) herunterladen.
 
 > #### primary::Hinweis
 >
 >  Da Sie MAGELLAN 7 aktuell nur einrichten um die Schnittstelle SAXSVS zu bedienen, genügt eine Server-/Einzelplatzinstallation auf Ihrem Serverrechner  oder auf einem Arbeitsplatzrechner. Sollten Sie sich für Ihren Serverrechner entscheiden, kann die dort laufende Firebirdversion 2.5.8 parallel von beiden Anwendungen genutzt werden, auf einem Arbeitsplatzrechner müsste Firebird zusätzlich installiert werden.
 
 Bitte beachten Sie die [Systemvoraussetzungen](https://doc.magellan7.stueber.de/installation/systemvoraussetzungen.html).
-
-
 
 ## Netzwerk, Einzelarbeitsplatz oder einen Arbeitsplatz einrichten?
 
@@ -62,7 +56,7 @@ Wenn Sie Ihren Schulverwaltungsserver nutzen möchten, dann stellen Sie bitte si
 |--|
 |Informieren Sie Ihre Kollegen darüber, dass MAGELLAN 6 kurzzeitig nicht genutzt werden kann und die Module geschlossen werden sollen|
 |Stoppen Sie unter `Systemsteuerung > Verwaltung > Dienste` Ihren Firebird-Server-Manager. <br/><br/>![Firebirddienst stoppen](/images/sachsen/fb.stoppen.png) |
-| Laden Sie das aktuelle Installationspaket von Firebird herunter: [Firebird-Download](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/Firebird-2.5.8.27089_0_Win32.exe) | 
+| Laden Sie das aktuelle Installationspaket von Firebird herunter: [Firebird-Download](https://download.stueber.de/bin/de/firebird/Firebird-2.5.8.27089_0_Win32.exe) | 
 | Starten Sie anschließend die Firebird-Installation durch einen Doppelklick auf die Datei `Firebird-2.5.8......Win32.exe`. <br/>Bitte übernehmen Sie im daraufhin startenden Installationsassistenten auf der Karte „Komponenten auswählen“ die voreingestellten Optionen.<br/><br/>![Komponenten auswählen](../images/fb-components.png)|
 | Auf der Karte „Zusätzliche Aufgaben auswählen“ übernehmen Sie bitte die Optionen und aktivieren zusätzlich das Häkchen „Die Firebird Client-Bibliothek ins Systemverzeichnis kopieren“. <br/><br/>![Zusätzliche Aufgaben auswählen](../images/fb-tasks.png) |
 
@@ -73,7 +67,7 @@ Wenn Sie Ihren Schulverwaltungsserver nutzen möchten, dann stellen Sie bitte si
 
 ## Download und Installationstypen
 
-Laden Sie bitte das MAGELLAN-Installationspaket unter [folgendem Link](ftp://ftp.stueber.de/pub/bin/de/magellan/v7/beta/magellan7.msi). Starten Sie anschließend die Installation per Doppelklick auf die Datei `Magellan7.msi`.
+Laden Sie bitte das MAGELLAN-Installationspaket unter [folgendem Link](https://download.stueber.de/bin/de/magellan/v7/magellan7.msi). Starten Sie anschließend die Installation per Doppelklick auf die Datei `Magellan7.msi`.
 
 Der Setup Assistent von MAGELLAN 7 wird gestartet und die Installationsdateien werden entpackt.
 

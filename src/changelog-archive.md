@@ -388,7 +388,7 @@ Datenstruktur durch einen Assistenten. [Weitere Infos finden Sie hier].
 ### Magellan
 + Neu: Die Landesstatistik Schleswig-Holstein 2014/2015 und Nordrhein-Westfalen 2014/2015 wird mit dieser Ausgabe freigegeben. Bitte 
   beachten Sie das aktualisierte Dokument Statistik.pdf auf unserer Webseite:
-  ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf 
+  https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf 
   
 + Neu: (RLP-Statistik) die Schlüsseldatei für die SchuelerMerkmale für ABS und für BBS wurden geändert. 
        Neu ist der Schlüssel "Ausschluss" mit dem Wert "J" und der Bezeichnung "Schüler von der Statistik ausschließen" Für das Feld Schüler|Statistik|MerkmalS7. 
@@ -453,7 +453,7 @@ Datenstruktur durch einen Assistenten. [Weitere Infos finden Sie hier].
 ### Magellan 
 + Neu: Die Landesstatistik Rheinland-Pfalz 2014/2015 wird mit dieser Ausgabe freigegeben. Bitte 
   beachten Sie das aktualisierte Dokument Statistik.pdf auf unserer Webseite:
-  ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+  https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
 
 Skripte:
 + Neu: (BER-APO-FOS-2013):  enthält gegenüber dem BER-APO-FOS-2006 die Änderungen, das Sport als Prüfungsfach im Gesamtdurchschnitt berückschtigt wird
@@ -622,7 +622,7 @@ berücksichtigt, für deren Klasse unter Klassen|Daten|Statistikkürzel ein Wert
   Bewerber angezeigt.
 + Neu: Für Berlin wird die Abiturschnittstelle 2014 mit dieser Ausgabe freigegeben. Bitte beachten Sie 
   dazu das aktualisierte Dokument Magellan6Berlin.pdf auf unserer Webseite:
-  ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Magellan6Berlin.pdf
+  https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Magellan6Berlin.pdf
 
 ### Magellan-Administrator:
 + Korrigiert: Allgemeines Importformat|Import schueler.csv BewerberNote korrigiert
@@ -1153,7 +1153,7 @@ Datenstruktur durch einen Assistenten. [Weitere Infos finden Sie hier].
 + Neu: Das Verzeichnis "Banken" wurde um die Felder "BIC", "Land" und "Prüfnummer" ergänzt. Um den für die Änderung im Zahlungverkehr 
   ab 2014 notwendigen BIC-Wert zu Ihre aktuellen Bankleitzahl verwenden zu können, müssen Sie die Bankleitzahlen nochmals 
   nach Magellan importieren. Wie Sie dazu vorgehen, entnehmen Sie bitte dem aktualisierten Magellan-Benutzerhandbuch unter
-  ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Magellan6.pdf im Abschnitt "3.3.1 Bankenverzeichnis importieren"    
+  https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Magellan6.pdf im Abschnitt "3.3.1 Bankenverzeichnis importieren"    
 + Korrektur: Sicherheitsabfrage beim Löschen einer Zeile unter Verzeichnisse|Verordnungen per ENTF-Taste  
 + Korrektur: bei der Sammelzuweisung kann die 4.Fremdsprache korrekt zugewiesen oder geändert werden
 
@@ -1163,10 +1163,10 @@ Datenstruktur durch einen Assistenten. [Weitere Infos finden Sie hier].
 ### Statistik:
 + Neu: Die Landesstatistik Niedersachsen ABS 2013/2014 zum Export nach izn-stabil wird mit dieser Ausgabe freigegeben. Bitte 
   beachten Sie das aktualisierte Dokument Statistik.pdf auf unserer Webseite:
-  ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+  https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
 + Neu: Die Landesstatistik Schleswig-Holstein 2013/2014 wird mit dieser Ausgabe freigegeben. Bitte 
   beachten Sie das aktualisierte Dokument Statistik.pdf auf unserer Webseite:
-  ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+  https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
 + Korrektur: RLP ABS-Statistik)die Plausibilitäten STALA-35700-3 und STALA-36400-2 wurden ausgegeben, wenn die Abiturnote im Modul Abitur erfasst war
 
 ### Skripte: 
@@ -1307,7 +1307,7 @@ Datenstruktur durch einen Assistenten. [Weitere Infos finden Sie hier].
 Statistik:
 + Neu: Die Landesstatistik Rheinland-Pfalz 2013/2014 wird mit dieser Ausgabe freigegeben. Bitte 
   beachten Sie das aktualisierte Dokument Statistik.pdf auf unserer Webseite:
-  ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+  https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
 
 ### Magellan
 + Dialogfenster "Schüler einschulen": Bei der Auswahl der Schüler werden zusätzlich die Spalten
@@ -1330,7 +1330,7 @@ Statistik:
   von der eingestellten Maske können nun den Feldern der Masken Werte per Sammelzuweisung zugewiesen werden 
 + Statistik: SIP-Schnittstelle für Mecklenburg-Vorpommern veröffentlicht.Bitte beachten Sie 
   dazu das aktualisierte Dokument Statistik.pdf auf unserer Webseite
-  ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+  https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
 
 ### Magellan-Administrator:
 + Magellan Importformat: Verbesserte Hinweismeldungen beim Einlesen von Schülerlaufbahnen
@@ -1629,7 +1629,7 @@ Datenstruktur durch einen Assistenten. [Weitere Infos finden Sie hier].
 + Neu: Unter "Ansicht Schüler|Zeugnis|Details" gibt es das neue Feld "Leistungsanforderungen"
 + Neu: Für Berlin wird die Abiturschnittstelle 2013 mit dieser Ausgabe freigegeben. Bitte beachten Sie 
   dazu das aktualisierte Dokument Statistik.pdf auf unserer Webseite:
-  ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+  https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
 
 ### Magellan-Konverter:
 + Korrektur: Konvertierung der IBIS-Daten funktioniert jetzt fehlerfrei, auch wenn erwartete IBIS-Dateien nicht zur Verfügung stehen.
@@ -1980,7 +1980,7 @@ BER-FW-APO-BBS-2011.js
 NIE-FW-APO-2010.js
 SHL-FW-APO-2010.js 
 Bitte beachten Sie die Dokumentation pro Skript im Dokument Landesanpassung.pdf
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesanpassungen.pdf
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesanpassungen.pdf
 
 ### Berichte (neu oder geändert)
 SAC-BS-AZ (A.02.04).rpt
@@ -2093,11 +2093,11 @@ in Rheinland-Pfalz entwickelte Erfassung schülerbezogener Unterrichtseinheiten 
 
 ### Magellan-Benutzerhandbuch
 
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Magellan6.pdf 
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Magellan6.pdf 
 
 ### Landesanpassungen
 
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesanpassungen.pdf
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesanpassungen.pdf
 
 ### Magellan
 
@@ -2252,7 +2252,7 @@ Schüler-Abschlussbericht(Schulabgänger).rpt
   * LSFachklasse
   * LSGliederung
  Weitere Informationen finden Sie in unserem Landesstatistiken.pdf:
- ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+ https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
  
 ### Berichte (neu oder geändert)
 
@@ -2304,7 +2304,7 @@ Klassenliste (inklusive Zusatzklasse).rpt
 
 + Neu: Die Landesstatistik Nordrhein-Westfalen 2012/2013 wird mit dieser Ausgabe freigegeben. Bitte 
 beachten Sie das aktualisierte Dokument Landesstatistiken.pdf auf unserer Webseite:
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
 + Änderung: Import|Berlin|BS_Berufe.keys
 + Änderung: unter Schueler|Ausbildung wird der Name2 des Ausbildungsbetriebes angezeigt
 
@@ -2364,7 +2364,7 @@ optional auch bei dieser Klasse unter Klassen|Zeitraum|Schüler eingeblendet wer
 Bitte beachten Sie für beide vorstehenden Neuerungen auch das neue Kapitel "Sonderfälle in der 
 Schülerlaufbahn". Sie können das Handbuch aus Magellan unter Hilfe|Benutzerhandbuch aufrufen oder 
 unter dem folgenden Link herunterladen:
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Magellan6.pdf
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Magellan6.pdf
 + Korrektur: (nur mit Bundeslandauswahl Berlin) Auswahl des Tutors für die Maske SekII korrigiert 
 + Korrektur: Fachtafel kopieren/Fachtafel extrahieren
 + Korrektur: RLP: Plausibilität STALA-18510-1 geändert
@@ -2387,7 +2387,7 @@ Schlüssel automatisch mit an
   * Prüfung des Schülers führte auch zum Importversuch der Schülerdaten   
 
 Bitte beachten Sie auch das aktualisierte Magellan-Import.pdf:
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Magellan-Import.pdf
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Magellan-Import.pdf
 
 ### Bibliothek
 
@@ -2419,7 +2419,7 @@ angezeigt werden, die die angezeigte Klasse als "Zusatzklasse" unter
 + Fehler beim Kopieren von Fachtafeln behoben
 + Fehler bei der Landesstatistik Schleswig-Holstein behoben. Bitte 
 beachten Sie auch das aktualisierte Dokument Landesstatistiken.pdf auf unserer Webseite:
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
 
 ### Berichte neu oder geändert
 
@@ -2447,7 +2447,7 @@ Datenstruktur durch einen Assistenten. [Weitere Infos finden Sie hier].
 
 + Neu: Die Landesstatistik Schleswig-Holstein 2012/2013 wird mit dieser Ausgabe freigegeben. Bitte 
 beachten Sie das aktualisierte Dokument Landesstatistiken.pdf auf unserer Webseite:
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
 + Neu: "Ansicht Schüler|Zugang/Abgang" / "Ansicht Bewerber|Zugang": Neues Feld "Empfehlung" für die 
 Zugangsempfehlung
 
@@ -2502,7 +2502,7 @@ gespeichert
 
 + Neu: IBIS-Konvertierung und Import (Dokumentation siehe Magellan-Import.pdf)
 + Neu: Magellan-Importformat überarbeitet und erweitert(Dokumentation siehe Magellan-Import.pdf)
-Download: ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Magellan-Import.pdf
+Download: https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Magellan-Import.pdf
 + Neu: NRW-Schulverzeichnis erweitert, einlesbar über Magellan-Importformat|Schulen
 
 ## 6.0.85 624 (06.07.2012)
@@ -2515,7 +2515,7 @@ Download: ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Magellan
 
 + Neu: Die Landesstatistik Rheinland-Pfalz 2012/2013 wird mit dieser Ausgabe freigegeben. Bitte 
 beachten Sie das aktualisierte Dokument Statistik.pdf auf unserer Webseite:
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
 
 ### Magellan
 
@@ -2770,10 +2770,10 @@ Sicherheitsdatenbank durchgeführt werden. Bitte lesen Sie dazu  die Hinweise in
 Magellan-Installationsanleitung (Kapitel "Update von Firebird 2.1 auf Firebird 2.5").
 
 Download Magellan6SetupInfo.de.pdf: 
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/support/Magellan6SetupInfo.de.pdf
+https://download.stueber.de/doc/de/schulverwaltung/support/Magellan6SetupInfo.de.pdf
 
 Download Firebird 2.5:
-ftp://ftp.stueber.de/pub/bin/de/magellan/v6/Firebird-2.5.1.26351_1_Win32.exe
+https://download.stueber.de/bin/de/magellan/v6/Firebird-2.5.1.26351_1_Win32.exe
   
 ### Skripte
 
@@ -3074,7 +3074,7 @@ steht der Focus im Anschluss auf Geschlecht statt Anrede.
 + Rheinland-Pfalz Ergänzung: RLP-ABs-Plausibilität Stala_185010
 + Schleswig-Holstein Neu: Die Landesstatistik 2011/2012 wird mit dieser Ausgabe freigegeben. Bitte 
 beachten Sie das aktualisierte Dokument Statistik.pdf auf unserer Webseite:
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
 
 
 ## 6.0.62 614 (16.08.2011)
@@ -3134,7 +3134,7 @@ Datenbankpfad korrekt gespeichert
  + Berlin Neu: Die Landesstatistik(Abiturerfassung für ABS und BBS) 2011/2012 wird mit dieser 
  Ausgabe freigegeben. Bitte 
 beachten Sie das aktualisierte Dokument Statistik.pdf auf unserer Webseite:
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
  
 
 ## 6.0.59 613 (14.06.2011)
@@ -3145,7 +3145,7 @@ Datenstruktur durch einen Assistenten. [Weitere Infos finden Sie hier].
 
 + Rheinland-Pfalz: Die Landesstatistik 2011/2012 für Rheinland-Pfalz wird mit dieser Ausgabe 
 freigegeben. Bitte beachten Sie das aktualisierte Dokument Statistik.pdf auf unserer Webseite:
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Landesstatistiken.pdf
 
 ### Magellan
 
@@ -3331,7 +3331,7 @@ Sie können sich dann entscheiden den Datensatz zu löschen oder den Nachnamen w
 Wichtig: Es erfolgt keine Aktualisierung der Schüler-/Bewerberdaten durch erneutes Einlesen, sondern  
 die Datensätze werden neu  angelegt.
 Bitte beachten Sie dazu auch das geänderte Magellan-Import.pdf:
-ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Magellan-Import.pdf
+https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Magellan-Import.pdf
 + Korrektur: In der Benutzerverwaltung können jetzt auch Benutzer gelöscht werden, die nur in der 
 Magellan-Datenbank existieren, nicht aber in der security2.fdb
 + Korrektur: Für das Magellan-Schülerimportformat wurde das Feld Behinderungsart in "Behinderung" 
@@ -3452,7 +3452,7 @@ Betrieb unter Auszubildende ausgegeben
 + Neu: Filterfunktion bei Vorgängen und Historie (testweise) eingeschaltet. 
 MyMagellan Center:
 Änderungen für MyMagellan werden gesondert in der MyMagellan-LiesMich-Datei beschrieben:
-ftp://ftp.stueber.de/pub/bin/de/magellan/v6/Magellan6.Liesmich.txt
+https://download.stueber.de/bin/de/magellan/v6/Magellan6.Liesmich.txt
 + Korrektur: Problem bei der Speicherung der Fensterposition behoben
  
  
@@ -3486,9 +3486,9 @@ Spalte "Lehrer".
   Klassenkürzel im Dokumentnamen
   gespeichert 
 + Neu: Die Pfad zu den Serviceupdatepaketen haben sich verändert:
-  - Magellan 6 Setup: ftp://ftp.stueber.de/pub/bin/de/magellan/v6/Magellan6.msi
-  - Magellan 6 Liesmich: ftp://ftp.stueber.de/pub/bin/de/magellan/v6/Magellan6.Liesmich.txt
-  - Magellan 6 UpdateInfo: ftp://ftp.stueber.de/pub/bin/de/magellan/v6/Magellan6.updateinfo
+  - Magellan 6 Setup: https://download.stueber.de/bin/de/magellan/v6/Magellan6.msi
+  - Magellan 6 Liesmich: https://download.stueber.de/bin/de/magellan/v6/Magellan6.Liesmich.txt
+  - Magellan 6 UpdateInfo: https://download.stueber.de/bin/de/magellan/v6/Magellan6.updateinfo
 
 ### Änderungen für SHL-BBS-Statistik
 

@@ -33,7 +33,7 @@ Art|Was ist zu tun
 >
 > Diese Installation wird einmalig im Netzwerk auf dem Rechner, auf dem später Ihre MAGELLAN-Datenbank liegen wird ausgeführt. 
 
-Laden Sie bitte das Firebird-Installationspaket von unseren Webseiten oder unter [folgendem Link](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/Firebird-2.5.5.26952_0_Win32.exe). Starten Sie anschließend die Firebird Installation durch einen Doppelklick auf die Datei `Firebird-2.5.5....Win32.exe`. Bitte übernehmen Sie im daraufhin startenden Installationsassistenten auf der Karte „Komponenten auswählen“ die voreingestellten Optionen.
+Laden Sie bitte das Firebird-Installationspaket von unseren Webseiten oder unter [folgendem Link](https://download.stueber.de/bin/de/magellan/v6/Firebird-2.5.5.26952_0_Win32.exe). Starten Sie anschließend die Firebird Installation durch einen Doppelklick auf die Datei `Firebird-2.5.5....Win32.exe`. Bitte übernehmen Sie im daraufhin startenden Installationsassistenten auf der Karte „Komponenten auswählen“ die voreingestellten Optionen.
 
 ![Komponenten auswählen](../images/fb-components.png)
 
@@ -47,7 +47,7 @@ Auf der Karte „Zusätzliche Aufgaben auswählen“ übernehmen Sie bitte die O
 
 ## Download und Installationstypen
 
-Laden Sie bitte das MAGELLAN-Installationspaket von unseren Webseiten oder unter [folgendem Link](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/magellan6.msi). Starten Sie anschließend die Installation per Doppelklick auf die Datei `Magellan6.msi`.
+Laden Sie bitte das MAGELLAN-Installationspaket von unseren Webseiten oder unter [folgendem Link](https://download.stueber.de/bin/de/magellan/v6/magellan6.msi). Starten Sie anschließend die Installation per Doppelklick auf die Datei `Magellan6.msi`.
 
 Der Setup Assistent von MAGELLAN 6 wird gestartet und die Installationsdateien werden entpackt.
 

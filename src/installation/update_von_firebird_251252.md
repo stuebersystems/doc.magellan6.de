@@ -1,7 +1,7 @@
 # Update von Firebird 2.5.1/2.5.2 auf 2.5.5
 
 1. Bitte gehen Sie wie folgt vor:
-Laden Sie die aktuelle Version von Firebird herunter: [Download Firebird 2.5.5](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/Firebird-2.5.5.26952_0_Win32.exe)
+Laden Sie die aktuelle Version von Firebird herunter: [Download Firebird 2.5.5](https://download.stueber.de/bin/de/magellan/v6/Firebird-2.5.5.26952_0_Win32.exe)
 2. Stoppen Sie den laufenden Firebirdserver unter `Start > Systemsteuerung > Verwaltung > Dienste > Firebird-Server > Rechtsklick > Beenden`.
 
 ![Firebird-Server-Dienst stoppen](../images/firebird_stop.jpg)

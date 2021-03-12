@@ -2,7 +2,7 @@
 
 Hier finden Sie die jeweils aktuellste Version der Landesstatistik **inklusiver aller kurzfristig veröffentlichten Korrekturen während einer Statistikphase**.
 
-## [**Downloadlink**](ftp://ftp.stueber.de/pub/bin/de/magellan/v7/beta/magellan7.msi)
+## [**Downloadlink**](https://download.stueber.de/bin/de/magellan/v7/beta/magellan7.msi)
 
 Diese Ausgabe beinhaltet alle vorangegangenen Änderungen.
 

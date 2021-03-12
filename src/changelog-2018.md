@@ -470,7 +470,7 @@ Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Besta
 * CHANGE: NRW: Schlüsselverzeichnis "00\_Muttersprachen.keys" aktualisiert
 * FIX: Bewerbersammelzuweisung korrigiert
 * FIX: Löschen von Fachtafel-Fächer-Zeilen in Fachwahltafeln korrigiert
-* FIX: Eingabe negativer Positionen für Zeugnisbemerkungen möglich (hierfür wurde auch [MyMagellan](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/mymagellan6.msi) korrigiert)
+* FIX: Eingabe negativer Positionen für Zeugnisbemerkungen möglich (hierfür wurde auch [MyMagellan](https://download.stueber.de/bin/de/magellan/v6/mymagellan6.msi) korrigiert)
 * CHANGE: Schüler > Zeugnis > Zeugnis > Sammelzuweisung `Zeugnisbemerkung`: inkremetelle Suche beim Kürzel möglich
 * FIX: Schüler > Zeugnis > Details > Sammelzuweisung `Tutor`: Beim Setzen des Häkchens für den Tutor ohne Auswahl eines Tutors kann der bereits zugewiesene Tutor für die ausgewählten Schüler gelöscht werden
 * FIX: Löschen von Sorgeberechtigten korrigiert (Resteinträge in SchuelerSorgebe werden mit entfernt)

@@ -10,7 +10,7 @@ Bitte folgen Sie diesen Schritten:
  
 3. Deinstallieren Sie bitte Firebird 2.1 (analog dem Kapitel „Deinstallation von Firebird 1.5“)
 
-4. Laden Sie die aktuelle Version von Firebird herunter: [Download Firebird 2.5.5](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/Firebird-2.5.5.26952_0_Win32.exe)
+4. Laden Sie die aktuelle Version von Firebird herunter: [Download Firebird 2.5.5](https://download.stueber.de/bin/de/magellan/v6/Firebird-2.5.5.26952_0_Win32.exe)
 
 5. Starten Sie die Installation per Doppelklick auf das Installationspaket. Folgen Sie dem Installationsassistenten.
 

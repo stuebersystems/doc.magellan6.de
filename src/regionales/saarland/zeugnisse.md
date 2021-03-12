@@ -8,7 +8,7 @@ Zusätzlich zu den von uns gelieferten Berichten liefern wir vom Ministerium fü
 
 > #### warning::Wichtig!
 >
-> Im gleichen Verzeichnis finden Sie auch die Anleitung ["MBK - Zeugniserstellung nach dem Lernfeldkonzept mit MAGELLAN.pdf"](ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/MBK - Zeugniserstellung nach dem Lernfeldkonzept mit MAGELLAN.pdf) des Saarländischen Ministeriums. Da die Datei ein PDF ist, sehen Sie sie nicht in der Berichtsvorschau, bitte öffnen Sie das Verzeichnis über den Windows Explorer.
+> Im gleichen Verzeichnis finden Sie auch die Anleitung ["MBK - Zeugniserstellung nach dem Lernfeldkonzept mit MAGELLAN.pdf"](https://download.stueber.de/doc/de/schulverwaltung/dokumentation/MBK - Zeugniserstellung nach dem Lernfeldkonzept mit MAGELLAN.pdf) des Saarländischen Ministeriums. Da die Datei ein PDF ist, sehen Sie sie nicht in der Berichtsvorschau, bitte öffnen Sie das Verzeichnis über den Windows Explorer.
 
 
 

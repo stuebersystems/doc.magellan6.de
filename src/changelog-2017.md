@@ -268,7 +268,7 @@ Eine Anleitung unserer Berichte finden Sie im Modul MAGELLAN BERICHTE, das Besta
 
 > #### warning::Wichtig!
 >
-> Bitte verwenden Sie auch die parallel veröffentlichte Ausgabe von [MyMAGELLAN](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/mymagellan6.msi). Die Änderungen finden Sie in unserer [MyMAGELLAN-Dokumentation](https://doc.mymagellan6.stueber.de/changelog.html).
+> Bitte verwenden Sie auch die parallel veröffentlichte Ausgabe von [MyMAGELLAN](https://download.stueber.de/bin/de/magellan/v6/mymagellan6.msi). Die Änderungen finden Sie in unserer [MyMAGELLAN-Dokumentation](https://doc.mymagellan6.stueber.de/changelog.html).
 
 ### Skripte
 

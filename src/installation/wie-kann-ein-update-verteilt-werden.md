@@ -75,7 +75,7 @@ Für alle folgenden Updates führen Sie bitte nur noch die Schritte 4. und 5. au
 
 Damit MAGELLAN "weiß", dass es nicht auf unseren Internetseiten sondern in Ihrem Netzwerk nach neuen Updates suchen soll, müssen Sie bei allen Clients unter `Extras > Optionen > Auto-Update` den Pfad zu Ihrer Update-Infodatei eintragen. 
 
-[Update-Infodatei für MAGELLAN-Setup](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/magellan6.updateinfo)
+[Update-Infodatei für MAGELLAN-Setup](https://download.stueber.de/bin/de/magellan/v6/magellan6.updateinfo)
 
 ### Herunterladen des Updatepaketes
 
@@ -86,7 +86,7 @@ Bitte laden Sie es herunter und speichern es in Ihrem Netzwerkverzeichnis.
 
 Die Update-Infodateien für MAGELLAN finden Sie hier:
 
-* [Update-Infodatei für MAGELLAN-Setup](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/magellan6.updateinfo)
+* [Update-Infodatei für MAGELLAN-Setup](https://download.stueber.de/bin/de/magellan/v6/magellan6.updateinfo)
 
 Update-Infodateien besitzen die Dateiendung `.UPDATEINFO`. Öffnen Sie die Datei per Texteditor.
 
@@ -99,7 +99,7 @@ Ein Beispiel für eine Update-Infodatei:
 Product="Magellan6"
 ProductVersion="6.0.174"
 SetupFileName="magellan6.msi"
-SetupURL="ftp://ftp.stueber.de/pub/bin/de/magellan/v6/magellan6.msi"
+SetupURL="https://download.stueber.de/bin/de/magellan/v6/magellan6.msi"
 SetupSize="243156992" />
 </UpdateInfo>
 ```

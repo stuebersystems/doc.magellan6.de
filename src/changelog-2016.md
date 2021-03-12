@@ -252,7 +252,7 @@ Eine Dokumentation aller Skripte finden Sie unter [http://doc.la.stueber.de](htt
 + Neu: "Ansicht Abitur|Qualifikation": Neue Felder "Rücktritt nach Zulassung" und "Rücktritt folgenlos".
 + Neu: Beim Drucken von Berichten wird im Dialogfenster zur Auswahl der Berichte die Spaltenbreite automatisch an den längsten Berichtsnamen angepasst.
 + Korrigiert: Berliner Masken für Schüler/Bewerber: Fehler bei Neuanlage eines Schülers/Bewerbers mit Ausbildungsbetrieb behoben.
-+ Neu: Berlin: Die Abiturschnittstelle 2016 steht jetzt zur Verfügung. Beachten Sie dazu auch die aktualisierte Dokumentation für Berlin im Dokument [Magellan Berlin](ftp://ftp.stueber.de/pub/doc/de/schulverwaltung/dokumentation/Magellan6Berlin.pdf).
++ Neu: Berlin: Die Abiturschnittstelle 2016 steht jetzt zur Verfügung. Beachten Sie dazu auch die aktualisierte Dokumentation für Berlin im Dokument [Magellan Berlin](https://download.stueber.de/doc/de/schulverwaltung/dokumentation/Magellan6Berlin.pdf).
 + Korrigiert: Seriendruck an Sorgeberechtigten=> Sorgebe_Anrede wird wieder korrekt übergeben
 
 
