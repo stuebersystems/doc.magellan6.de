@@ -23,8 +23,6 @@ Art|Was ist zu tun
 **Einzelarbeitsplatz:**|Ein Einzelarbeitsplatz wird genau wie ein Serverrechner eingerichtet:<br/><br/> - Installieren Sie Firebird.<br/> - MAGELLAN wird als Server/Einzelplatz-Installation eingerichtet.. <br/> - Lizenzieren Sie die Installation.
 **Arbeitsplatz:**|Sie haben ein Netzwerk bestehend aus einem MAGELLAN-Server und Arbeitsplatzrechnern und möchten nur einen weiteren Arbeitsplatzrechner einrichten? <br/><br/> - Führen Sie auf dem Rechner die MAGELLAN-Installation mit dem Installationstyp "Arbeitsplatzinstallation" aus. <br/> -  Lizenzieren Sie den Arbeitsplatz. <br/> - Richten die Verbindung zu den Daten auf dem Server ein. <br/><br/>Auch hier ist es möglich statt lokaler Verbindungsdaten und Lizenz per [Pathsdatei](https://doc.magellan6.stueber.de/installation/die-pathsdatei.html) auf gemeinsame Daten zu verweisen.
 
-
-
 ## Installation von Firebird 2.5
 
 > #### warning::Wichtig!

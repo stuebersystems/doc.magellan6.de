@@ -53,7 +53,7 @@
   * [MYMAGELLAN Center](admin/mymagellan-center.md)
   * [Schülerpool](admin/schueler-pool.md)
   * [Aktionen im Silentmode](installation/magellan-administrator-im-silentmode-starten.md)
-  * [MAGELLAN Scripting](https://doc.magellan-scripting.stueber.de)
+  * [MAGELLAN Scripting](https://doc.magellan6-scripting.stueber.de)
 * [Referenz](reference/README.md)
   * [Tastaturkürzel](reference/shortcuts.md)
   * [Sonderzeichen](reference/special-characters.md)
@@ -94,5 +94,5 @@
     * [Lernfelder importieren](regionales/saarland/lernfelder-importieren.md)
     * [Zeugnisse mit Lernfeldern](regionales/saarland/zeugnisse.md)
   * [Sachsen](regionales/sachsen/sachsen.md)
-* [Knowledge Base \(FAQ\)](https://doc.magellan6-kb.stueber.de/)
+* [Knowledge Base \(FAQ\)](https://doc.kb.stueber.de/)
 
