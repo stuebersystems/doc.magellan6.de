@@ -21,7 +21,7 @@ Der Assistent zum Datenstrukturanpassen prüft vor der Erweiterung der Datenstru
 
 Schritte|Anmerkung
 --|--
-![](/images/update/fb.1.png)|1. Laden Sie die aktuelle Version von Firebird herunter: <br/>[Download Firebird 2.5.8](https://download.stueber.de/bin/de/magellan/v6/Firebird-2.5.8.27089_0_Win32.exe)<br/> 2. Stoppen Sie den laufenden Firebirdserver unter `Start > Systemsteuerung > Verwaltung > Dienste > Firebird-Server > Rechtsklick > Beenden`.<br/>3. Starten Sie die Installation von Firebird per Doppelklick auf die heruntergeladene Datei. 
+![](/images/update/fb.1.png)|1. Laden Sie die aktuelle Version von Firebird herunter: <br/>[Download Firebird 2.5.8](https://download.stueber.de/bin/de/firebird/Firebird-2.5.8.27089_0_Win32.exe)<br/> 2. Stoppen Sie den laufenden Firebirdserver unter `Start > Systemsteuerung > Verwaltung > Dienste > Firebird-Server > Rechtsklick > Beenden`.<br/>3. Starten Sie die Installation von Firebird per Doppelklick auf die heruntergeladene Datei. 
 ![](/images/update/fb.2.png)|4. Starten Sie Firebird-Installation per Doppelklick!
 ![](/images/update/fb.3.png)|5. Die bestehende Installation wird erkannt, klicken Sie auf "Nein" um die Installation dennoch ausführen zu können!
 ![](/images/update/fb.4.png)|6. Weiter!
@@ -59,7 +59,7 @@ Bitte folgen Sie diesen Schritten:
 1. Setzen Sie  im MAGELLAN-Administrator das Administratorenkennwort auf „masterkey“ zurück. Sie finden die Möglichkeit dazu unter dem Punkt "Datenbank \| Administratoren-Kennwort".
 2. Um die Kennwortdaten unter Firebird 2.1 zu sichern, wählen Sie bitte den Punkt "Datensicherung \| Sicherungskopie erstellen \| Starten". Wählen Sie „Firebird Sicherheitsdatenbank 2.1/2.5“ und geben im unteren Feld einen Pfad und Namen für die Sicherung an. Die Endung `*.fbk` wird automatisch ergänzt. Möchten Sie die Sicherung der Sicherheitsdatenbank im Programmordner der Firebird-Installation vornehmen wählen Sie bitte folgende Pfade: Für 32-Bit-Betriebssysteme `C:\Program Files\Firebird\Firebird_2_1` und für 64-Bit-Betriebssysteme `C:\Program Files (x86)\Firebird\Firebird_2_1`.
 3. Deinstallieren Sie bitte Firebird 2.1 \(analog dem Kapitel „Deinstallation von Firebird 1.5“\)
-4. Laden Sie die aktuelle Version von Firebird herunter: [Download Firebird 2.5.8](https://download.stueber.de/bin/de/magellan/v6/Firebird-2.5.8.27089_0_Win32.exe)
+4. Laden Sie die aktuelle Version von Firebird herunter: [Download Firebird 2.5.8](https://download.stueber.de/bin/de/firebird/Firebird-2.5.8.27089_0_Win32.exe)
 5. Starten Sie die Installation per Doppelklick auf das Installationspaket. Folgen Sie dem Installationsassistenten.
 6. Melden Sie sich als sysdba am Magellan-Administrator an und erstellen unter `Datenbanksicherung > Sicherungskopie erstellen` eine Sicherung der Datenbank. Der Speicherort der Sicherung muss sich auf dem Rechner befinden, auf dem sich Ihre Magellan-Datenbank befindet. Wir empfehlen die Sicherung im Verzeichnis Datenbank &gt; Backup zu erstellen und als Dateinamen das Tagesdatum zu verwenden.
 

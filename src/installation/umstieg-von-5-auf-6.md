@@ -52,7 +52,7 @@ Welche Einstellungen Sie für MAGELLAN 5 treffen müssen, um MAGELLAN 5 auch mit
 
 ### Installation von Firebird 2.5
 
-* Laden Sie bitte das Firebird-Installationspaket von unseren Webseiten oder unter [folgendem Link](https://download.stueber.de/bin/de/magellan/v6/Firebird-2.5.2.26540_0_Win32.exe)
+* Laden Sie bitte das Firebird-Installationspaket von unseren Webseiten oder unter [folgendem Link](https://download.stueber.de/bin/de/firebird/Firebird-2.5.8.27089_0_Win32.exe)
 
 * Starten Sie die Firebird-Installation durch einen Doppelklick auf die Datei ``Firebird-2.5.2.26540_0_Win32.exe``.
 

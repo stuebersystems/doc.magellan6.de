@@ -11,8 +11,6 @@ Dieser Abschnitt beschreibt die Installation von MAGELLAN 6 mit den einzelnen In
 * Einzelplatzinstallation
 * MAGELLAN 6 starten nach Neuinstallation
 
-
-
 ## Netzwerk, Einzelarbeitsplatz oder einen Arbeitsplatz einrichten?
 
 Kurz vorab, je nachdem was Sie einrichten möchten sind unterschiedliche Installationen oder Installationstypen notwendig.
@@ -33,7 +31,7 @@ Art|Was ist zu tun
 >
 > Diese Installation wird einmalig im Netzwerk auf dem Rechner, auf dem später Ihre MAGELLAN-Datenbank liegen wird ausgeführt. 
 
-Laden Sie bitte das Firebird-Installationspaket von unseren Webseiten oder unter [folgendem Link](https://download.stueber.de/bin/de/magellan/v6/Firebird-2.5.5.26952_0_Win32.exe). Starten Sie anschließend die Firebird Installation durch einen Doppelklick auf die Datei `Firebird-2.5.5....Win32.exe`. Bitte übernehmen Sie im daraufhin startenden Installationsassistenten auf der Karte „Komponenten auswählen“ die voreingestellten Optionen.
+Laden Sie bitte das Firebird-Installationspaket von unseren Webseiten oder unter [folgendem Link](https://download.stueber.de/bin/de/firebird/Firebird-2.5.8.27089_0_Win32.exe). Starten Sie anschließend die Firebird Installation durch einen Doppelklick auf die Datei `Firebird-2.5.5....Win32.exe`. Bitte übernehmen Sie im daraufhin startenden Installationsassistenten auf der Karte „Komponenten auswählen“ die voreingestellten Optionen.
 
 ![Komponenten auswählen](../images/fb-components.png)
 
